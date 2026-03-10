@@ -1,4 +1,6 @@
+# Deploy Next.js to Shared Hosting - Secrets ready
 name: Deploy Next.js to Shared Hosting
+
 
 on:
   push:
